@@ -11,10 +11,16 @@ I am a computer engineering student from Denmark. I've been working with IT and 
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,R)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,mysql,arduino,raspberrypi,matlab,R,git,anaconda)](https://skillicons.dev)
 
+### Packages
 
+[![Packages](https://skillicons.dev/icons?i=selenium,opencv,sklearn,maven)](https://skillicons.dev)
+
+### IDE
+
+[![IDE](https://skillicons.dev/icons?i=idea,pycharm,clion,vscode,eclipse)](https://skillicons.dev)
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/JuiceMessiah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jacob-aslan-lassen-51912a21b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+[![Socials](https://skillicons.dev/icons?i=linkedin,github,discord)](https://skillicons.dev)
