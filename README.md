@@ -11,10 +11,8 @@ I am a computer engineering student from Denmark. I've been working with IT and 
 
 ### Skills
 
-
-<p align="left">
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,R)](https://skillicons.dev)
-</p>
+
 
 
 ### Socials
