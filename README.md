@@ -11,16 +11,24 @@ I am a computer engineering student from Denmark. I've been working with IT and 
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,mysql,arduino,raspberrypi,matlab,R,git,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,anaconda,java,arduino,raspberrypi,matlab,r,regex&perline=5)](https://skillicons.dev)
 
-### Packages
+### Tools
 
-[![Packages](https://skillicons.dev/icons?i=selenium,opencv,sklearn,maven)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,maven,mysql)](https://skillicons.dev)
+
+### Libraries
+
+[![Libraries](https://skillicons.dev/icons?i=selenium,opencv,sklearn,pytorch)](https://skillicons.dev)
 
 ### IDE
 
 [![IDE](https://skillicons.dev/icons?i=idea,pycharm,clion,vscode,eclipse)](https://skillicons.dev)
 
+### Other
+
+[![Other](https://skillicons.dev/icons?i=ae,pr,ps,figma,latex)](https://skillicons.dev)
+
 ### Socials
 
-[![Socials](https://skillicons.dev/icons?i=linkedin,github,discord)](https://skillicons.dev)
+[![Socials](https://skillicons.dev/icons?i=linkedin,discord,github)](https://skillicons.dev)
