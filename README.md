@@ -15,7 +15,7 @@ I am a computer engineering student from Denmark. I've been working with IT and 
 
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,maven,mysql)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,maven,mysql,docker,aws)](https://skillicons.dev)
 
 ### Libraries
 
