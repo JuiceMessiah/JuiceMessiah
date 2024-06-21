@@ -37,7 +37,3 @@ I am a computer engineering student from Denmark. I've been working with IT and 
 [![](https://visitcount.itsvg.in/api?id=JuiceMessiah&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=JuiceMessiah&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
