@@ -28,3 +28,16 @@ I am a computer engineering student from Denmark. I've been working with IT and 
 [![IDE](https://skillicons.dev/icons?i=idea,pycharm,clion,vscode,eclipse)](https://skillicons.dev)
 
 
+# 📊 Stats:
+![](https://github-readme-stats.vercel.app/api?username=JuiceMessiah&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JuiceMessiah&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuiceMessiah&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=JuiceMessiah&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=JuiceMessiah&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
