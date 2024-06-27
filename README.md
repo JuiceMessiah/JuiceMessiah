@@ -28,7 +28,7 @@ My name is Jacob. I am a computer engineering student from Denmark, who likes to
 <h2 align="center">Statistics</h2>
 
 <div align="center">
-<a href="https://github.com/AhmadChleih">
+<a href="https://github.com/JuiceMessiah">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuiceMessiah&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuiceMessiah&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuiceMessiah&theme=tokyonight" height="180em" />
